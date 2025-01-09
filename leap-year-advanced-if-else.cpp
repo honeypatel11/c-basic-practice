@@ -3,9 +3,7 @@
 using namespace std;
 
 int main(){
-    int year;
-
-    
+    int year; 
     cout << "Enter The Number :- " <<endl;
     cin >> year;
 
